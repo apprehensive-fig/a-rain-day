@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/a-rain-day/static/css/main.a8fc7f5e.chunk.css",
-    "main.js": "/a-rain-day/static/js/main.f05408f4.chunk.js",
-    "main.js.map": "/a-rain-day/static/js/main.f05408f4.chunk.js.map",
+    "main.css": "/a-rain-day/static/css/main.2de429ff.chunk.css",
+    "main.js": "/a-rain-day/static/js/main.80f2144c.chunk.js",
+    "main.js.map": "/a-rain-day/static/js/main.80f2144c.chunk.js.map",
     "runtime-main.js": "/a-rain-day/static/js/runtime-main.e952a174.js",
     "runtime-main.js.map": "/a-rain-day/static/js/runtime-main.e952a174.js.map",
     "static/js/2.196c0222.chunk.js": "/a-rain-day/static/js/2.196c0222.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b60e4fcf.chunk.js": "/a-rain-day/static/js/3.b60e4fcf.chunk.js",
     "static/js/3.b60e4fcf.chunk.js.map": "/a-rain-day/static/js/3.b60e4fcf.chunk.js.map",
     "index.html": "/a-rain-day/index.html",
-    "static/css/main.a8fc7f5e.chunk.css.map": "/a-rain-day/static/css/main.a8fc7f5e.chunk.css.map",
+    "static/css/main.2de429ff.chunk.css.map": "/a-rain-day/static/css/main.2de429ff.chunk.css.map",
     "static/js/2.196c0222.chunk.js.LICENSE.txt": "/a-rain-day/static/js/2.196c0222.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e952a174.js",
     "static/js/2.196c0222.chunk.js",
-    "static/css/main.a8fc7f5e.chunk.css",
-    "static/js/main.f05408f4.chunk.js"
+    "static/css/main.2de429ff.chunk.css",
+    "static/js/main.80f2144c.chunk.js"
   ]
 }
