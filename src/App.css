@@ -13,8 +13,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: 40px;
-  font-family:  'Abril Fatface', cursive;
   color: #2C2C2C;
 }
 
@@ -29,6 +27,12 @@ audio {
   top: 0;
 }
 
-p {
+h1 {
   margin-bottom: -10px;
+  font-family:  'Abril Fatface', cursive;
+  font-size: 40px;
+}
+
+p {
+  font-family: "Segoe UI" sans-serif;
 }

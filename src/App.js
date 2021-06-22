@@ -13,9 +13,9 @@ function App() {
           loop
           controls
         />
-      <p>
+      <h1>
         a rain day
-      </p>
+      </h1>
         <HomepageImage />
         <div class="footer">
           <p>image and audio source alexis.sae.an@gmail.com tokyo</p>
